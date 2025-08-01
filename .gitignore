@@ -1,0 +1,3 @@
+/vent
+*.pytest_cache
+.idea
